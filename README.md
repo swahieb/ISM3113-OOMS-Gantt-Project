@@ -60,7 +60,7 @@ Modeled data movement between system components using Gane & Sarson notation.
 
 **Course:** ISM3113 – Information Systems Analysis and Design  
 **Instructor:** Dr. Tony Robinson, D.B.A.  
-**Term:** Summer 2026  
+**Term:** Summer 2025  
 **Student:** Samaa Wahieb  
 
 ---
