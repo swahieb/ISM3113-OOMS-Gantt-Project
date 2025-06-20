@@ -1,6 +1,6 @@
-# ISM3113 – Online Order Management System Project (Summer 2026)
+# ISM3113 – Online Order Management System Project (Summer 2025)
 
-This repository contains the systems analysis planning and modeling deliverables for the **Online Order Management System (OOMS)** project, completed as part of **ISM3113: Information Systems Analysis and Design** during **Summer 2026**.
+This repository contains the systems analysis planning and modeling deliverables for the **Online Order Management System (OOMS)** project, completed as part of **ISM3113: Information Systems Analysis and Design** during **Summer 2025**.
 
 ---
 
